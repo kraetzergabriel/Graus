@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Graus</string>
+    <string name="txCelsius">Celsius</string>
+    <string name="txFahrenheit">Fahrenheit</string>
+    <string name="titleAlertDialog">Graus</string>
+    <string name="txTemperatura">Temperatura</string>
+    <string name="txCalcular">Calcular</string>
+</resources>
